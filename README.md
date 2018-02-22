@@ -14,7 +14,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	Omega One	|	https://omega.one/ | (ICO) | TBC * |
 |	Inbest Network	|	https://www.inbest.network/ | (ICO) | inbest protocol |
 |	Bisq	|	https://bisq.network/ | (operating) | bisq protocol |
-|	BarterDEX	|	https://github.com/buildog/BarterDEX | (operating) | barterdex protocol |
+|	BarterDEX	|	https://github.com/KomodoPlatform/BarterDEX | (operating) | barterdex protocol |
 |	EtherEx	|	http://etherex.github.io/etherex | (operating) | TBC * |
 |	BitShares	|	https://wallet.bitshares.org/ | (operating) | bitshares protocol (DPOS) |
 |	OpenLedger DEX	|	https://openledger.io/ | (operating) | bitshares protocol (DPOS) |
@@ -52,6 +52,7 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 |	{Set} **	|	https://setprotocol.com/ | (released) | {Set} protocol |
 |	Raiden **	|	https://raiden.network/ | (released) | raiden protocol |
 |	Ethfinex***	|	https://www.ethfinex.com/ | (private beta) | multi protocol |
+|	Exchange Union***	|	https://www.exchangeunion.com/ | (developing) | multi payment channels protocol |
 
 *: To be confirmed
 
@@ -59,6 +60,6 @@ A full list of decentralized exchanges of cryptocurrencies and tokens.
 
 ***: Hybrid Exchange Model, full decentralisation in the roadmap.
 
-**LAST UPDATE**: 12/30/2017
+**LAST UPDATE**: 02/22/2018
 
 **Donate**: 0xcf28eC228eE5Cf04580e36CfacDA75b610c858fe
