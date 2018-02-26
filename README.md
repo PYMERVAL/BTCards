@@ -299,7 +299,7 @@ This is a list of protocols for peer-to-peer exchange of cryptographic assets wi
 
 [8] https://ripple.com/build/transactions/#offercreate
 
-[9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All BIP 199 compatible payment channels can be supported directly, others need a way to implement HTLC swaps via smart contracts or similar.
+[9] [This work-in-progress document](https://github.com/ExchangeUnion/Docs/blob/master/XU-TechnicalPaper.md) outlines the use of payment/state channels with atomic swaps and the decentralized orderbook approach of Exchange Union. All chains with BIP 199 compatible payment channels can be supported directly, others need a HTLC atomic swap implementation via smart contracts or similar.
 
 ## **SOURCES**: 
 
