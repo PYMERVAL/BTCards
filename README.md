@@ -48,7 +48,6 @@ Please, consider [contributing](https://github.com/distribuyed/index/blob/master
 | 	BTSABC	| 	[![alt text][web]](https://bit.btsabc.org/) |	| | | 	(operating)	| 	bitshares protocol (DPOS)	| 	| | | | |
 |	Bytabit 	| 	[![alt text][web]](https://bytabit.org/)	|  |  | `ACL` `DCD` `DC` `DOM` | 	(developing)	| 	bytabit protocol	| 6 | | | | |
 | 	Catalyst	| 	[![alt text][web]](https://enigmampc.github.io/catalyst/index.html) | [![alt text][github]](https://github.com/enigmampc/catalystweb)	| [![alt text][whitepaper]](https://www.enigma.co/enigma_catalyst.pdf) | | 	(developing - alpha)	| 	enigma protocol	| 	| | | | |
-| 	CDX	| 	[![alt text][web]](https://github.com/YouDex/cdx) | [![alt text][github]](https://github.com/YouDex/cdx)	| [![alt text][whitepaper]](https://github.com/YouDex/cdx/blob/master/CDX_PROTOCOL.pdf) | | 	(proposed)	| 	enigma protocol	| 	| TBC | Ethereum - Youdex Sidechain |  | |
 | 	Coinffeine	| 	[![alt text][web]](http://www.coinffeine.com/) | [![alt text][github]](https://github.com/Coinffeine)	| | | 	(developing)	| 	coinffeine protocol	| 	| | | | |
 | 	COMIT	| 	[![alt text][web]](http://www.comit.network/) |	| [![alt text][whitepaper]](http://www.comit.network/doc/COMIT%20white%20paper%20v1.0.2.pdf) | | 	(whitepaper)	| 	comit protocol (cross-chain routing)	|	2 | | | | |
 | 	Cosmos Network	| [![alt text][web]](https://cosmos.network/)	| [![alt text][github]](https://github.com/cosmos) | [![alt text][whitepaper]](https://github.com/cosmos/cosmos/blob/master/DEX.md) | | 	(whitepaper)	| 	interledger protocol	|	| | | | |
