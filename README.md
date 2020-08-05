@@ -416,9 +416,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## Protocols for Decentralized Exchange
 
-[List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
-
-+ [https://opendex.network/read/00-introduction](OpenDEX protocol)
++ [OpenDEX protocol](https://opendex.network/read/00-introduction)
++ [List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
 
 ## Decentralized Marketplaces:
 
