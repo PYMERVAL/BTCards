@@ -126,7 +126,6 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(live with issues)	| 	TBC	| 	| | | | |
 | 	Everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| [![alt text][whitepaper]](https://docs.everbloom.co/) | `FULLY` | 	(live)	| 	multi-protocol	| 	| ERC20 | Ethereum | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(live with issues)	| 	TBC	| 	| | | | |
-| 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
 | 	Exchangily	| 	[![alt text][web]](https://exchangily.com/) | [![alt text][github]](https://github.com/blockchaingate)	| [![alt text][whitepaper]](https://exchangily.com/assets/pdfs/wp-en.pdf) | `DOM` `FULLY` `DG` `OPRO` `RELAY` `ACL` | 	(dev)	| 	Fast Access Blockchain protocol	| 	| All | Fast Access Blockchain (FAB) | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
 |	FairDEX	| [![alt text][web]](https://fairdex.net/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(live)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis | [![alt text][web]](https://dutchx.d.exchange/api/) |
@@ -200,6 +199,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	OneChain DEX	| 	[![alt text][web]](http://onechain.one) | [![alt text][github]](https://github.com/onechainone)	| [![alt text][whitepaper]](https://cdn1.haoduobi.cn/offcial_assets/onechain-white%20paper-en.pdf) | | 	(dev)	| 	TBC	| 	| | EOS | | |
 | 	openANX	| 	[![alt text][web]](https://www.openanx.org/en/) |	| | | 	(dev)	| 	openanx protocol	| 	| | | | |
 | 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(dev - prototype)	| 	TBC	| 8	| | | | |
+| 	OpenDEX	| 	[![alt text][web]](https://opendex.network/) | [![alt text][github]](https://github.com/exchangeunion/xud)	| [![alt text][whitepaper]](https://docs.exchangeunion.com/) | `FULLY` | 	(live)	| 	OpenDEX L2 cross-chain protocol	| ⚡️ | All | cross-chain | | |
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(live)	| 	bitshares protocol (DPOS)	| 	| | | | |
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) | | | `FULLY` `RELAY` | (dev - private alpha) | 0x protocol | | | | | |
 | Open Trading Network | [![alt text][web]](https://otn.org/) | [![alt text][github]](https://github.com/OpenTradingNetworkFoundation) | [![alt text][whitepaper]](https://otn.org/assets/resources/Open-Trading-Network-white-paper_en.pdf) |   | (dev) | otn protocol |   |   |   |   |   |
