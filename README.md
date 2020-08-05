@@ -8,7 +8,7 @@ A comprehensive list of decentralized exchanges (DEX).
 
 Please, consider [contributing](https://github.com/kilrau/index/blob/master/CONTRIBUTING.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Many thanks to all the contributors, especially to [@distribuyed](https://github.com/distribuyed/) & [@amisolution](https://github.com/amisolution/) for all their amazing work getting the ball rolling.
+Many thanks to all the contributors, especially to [@distribuyed](https://github.com/distribuyed/) & [@amisolution](https://github.com/amisolution/) for their amazing work getting the ball rolling.
 
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG | API  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
