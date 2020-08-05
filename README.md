@@ -1,4 +1,4 @@
-[![alt text][header]](https://github.com/distribuyed/index)
+[![alt text][header]](https://github.com/kilrau/index)
 
 # inDEX we trust.
 
@@ -6,14 +6,9 @@ A comprehensive list of decentralized exchanges (DEX).
 
 > This is a list of decentralized exchanges of cryptographic assets (cryptocurrencies, tokens, derivatives, futures...) and their protocols, without a central entity. The architecture of these and their protocols can be quite different from one another. In some cases, they are built projects entirely open source. In other cases, they are closed in some aspects, but still implemented open or decentralized tools or mechanisms like smart contracts that are publicly verifiable. Other projects have chosen to create their own distributed ledger technology (DTL) in order to build a protocol for exchange.
 
-Please, consider [contributing](https://github.com/distribuyed/index/blob/master/CONTRIBUTING.md) and/or **donate** (I have a really big stomach to maintain. 🍺 🍔 🍩):
+Please, consider [contributing](https://github.com/kilrau/index/blob/master/CONTRIBUTING.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
- - **eth**: 0x81404BE6B9d46554ADAbCc7599967cF157720d31
- - **btc**: 1HUwxzaNoo1Qdw9Sh5esHhAf5FXFZ7tk8N
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-Many thanks to all the contributors, especially to [@amisolution](https://github.com/amisolution/) for all their contributions.
+Many thanks to all the contributors, especially to [@distribuyed](https://github.com/distribuyed/) & [@amisolution](https://github.com/amisolution/) for their amazing work getting the ball rolling.
 
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG | API  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
@@ -126,7 +121,6 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	EthRoox	| 	[![alt text][web]](https://etheroox.com/) |	| | | 	(live with issues)	| 	TBC	| 	| | | | |
 | 	Everbloom	| 	[![alt text][web]](http://everbloom.co/) |	| [![alt text][whitepaper]](https://docs.everbloom.co/) | `FULLY` | 	(live)	| 	multi-protocol	| 	| ERC20 | Ethereum | | |
 | 	ExchangeN	| 	[![alt text][web]](http://www.exchangen.com/) |	| | | 	(live with issues)	| 	TBC	| 	| | | | |
-| 	Exchange Union	| 	[![alt text][web]](https://www.exchangeunion.com) | [![alt text][github]](https://github.com/exchangeunion)	| [![alt text][whitepaper]](https://api.exchangeunion.com/pdf/en/ExchangeUnion-WhitePaper.pdf) | `DS` `DOB` `DD` `OPRO` | 	(dev)	| 	exchange union protocol	| 	| All | All | | |
 | 	Exchangily	| 	[![alt text][web]](https://exchangily.com/) | [![alt text][github]](https://github.com/blockchaingate)	| [![alt text][whitepaper]](https://exchangily.com/assets/pdfs/wp-en.pdf) | `DOM` `FULLY` `DG` `OPRO` `RELAY` `ACL` | 	(dev)	| 	Fast Access Blockchain protocol	| 	| All | Fast Access Blockchain (FAB) | | |
 | Expread | [![alt text][web]](http://expread.io/) |   | [![alt text][whitepaper]](http://expread.io/home/EXPREAD_WhitePaper_Version2.1-final.compressed.pdf) |   | (dev) | payment channels protocol |   | | | | |
 |	FairDEX	| [![alt text][web]](https://fairdex.net/)	|  | [![alt text][whitepaper]](https://dutchx.readthedocs.io/en/latest) |  | 	(live)	| 	DutchX protocol	|  | ERC20 tokens | Ethereum | Gnosis | [![alt text][web]](https://dutchx.d.exchange/api/) |
@@ -200,6 +194,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	OneChain DEX	| 	[![alt text][web]](http://onechain.one) | [![alt text][github]](https://github.com/onechainone)	| [![alt text][whitepaper]](https://cdn1.haoduobi.cn/offcial_assets/onechain-white%20paper-en.pdf) | | 	(dev)	| 	TBC	| 	| | EOS | | |
 | 	openANX	| 	[![alt text][web]](https://www.openanx.org/en/) |	| | | 	(dev)	| 	openanx protocol	| 	| | | | |
 | 	Open Collectors Network	| [![alt text][web]](https://opencollectors.network/) | [![alt text][github]](https://github.com/cosmingrigore/OpenCollectorsNetwork)	| [![alt text][whitepaper]](https://opencollectors.network/layout/OpenCollectorsNetwork) | | 	(dev - prototype)	| 	TBC	| 8	| | | | |
+| 	OpenDEX	| 	[![alt text][web]](https://opendex.network/) | [![alt text][github]](https://github.com/exchangeunion/xud)	| [![alt text][whitepaper]](https://docs.exchangeunion.com/) | `FULLY` | 	(live)	| 	OpenDEX L2 cross-chain protocol	| ⚡️ | All | cross-chain | | |
 | 	OpenLedger DEX	| 	[![alt text][web]](https://openledger.io/) |	| | | 	(live)	| 	bitshares protocol (DPOS)	| 	| | | | |
 | 	Open Relay	| 	[![alt text][web]](https://openrelay.xyz/) | | | `FULLY` `RELAY` | (dev - private alpha) | 0x protocol | | | | | |
 | Open Trading Network | [![alt text][web]](https://otn.org/) | [![alt text][github]](https://github.com/OpenTradingNetworkFoundation) | [![alt text][whitepaper]](https://otn.org/assets/resources/Open-Trading-Network-white-paper_en.pdf) |   | (dev) | otn protocol |   |   |   |   |   |
@@ -387,10 +382,6 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 - [#inDEX featured @ Blockbar](https://www.blockbar.nl/bdex-on-rpi/)
 
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
 ## Disclaimer
 
 > While the maintainer(s) of this repo do their best to keep this list free of any software that could be considered harmful to users, inclusion on this list does not constitute an endorsement by the author(s) or maintainer(s) of this repo. Do your own due diligence before downloading and installing any software to ensure you can trust it and understand the implications of its use.
@@ -425,7 +416,8 @@ If you know in details or are you the owner/dev of any DEX, please fill the colu
 
 ## Protocols for Decentralized Exchange
 
-[List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
++ [OpenDEX protocol](https://opendex.network/read/00-introduction)
++ [List of protocols for peer-to-peer exchange of cryptographic assets without a central entity: ](https://github.com/evbots/dex-protocols)
 
 ## Decentralized Marketplaces:
 
