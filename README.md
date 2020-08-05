@@ -9,7 +9,7 @@ A comprehensive list of decentralized exchanges (DEX).
 Please, consider [contributing](https://github.com/kilrau/index/blob/master/CONTRIBUTING.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 Many thanks to all the contributors, especially to [@distribuyed](https://github.com/distribuyed/) & [@amisolution](https://github.com/amisolution/) for all their amazing work getting the ball rolling.
-distribuyed
+
 |	Exchange	| URL	| REPO | DOCS | DEX GRADE | 	Status	| 	Protocol	| Reference | Asset | DLT | ORG | API  |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 	{Set}	| 	[![alt text][web]](https://setprotocol.com/) | [![alt text][github]](https://github.com/SetProtocol/set-protocol-contracts)	| [![alt text][whitepaper]](https://www.setprotocol.com/pdf/set_protocol_whitepaper.pdf) | | 	(dev)	| 	{Set} protocol	| 2	| ERC20 Tokens - Set Tokens | Ethereum | | |
