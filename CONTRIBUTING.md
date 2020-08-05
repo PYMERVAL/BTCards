@@ -1,10 +1,10 @@
-[![alt text][header]](https://github.com/distribuyed/index)
+[![alt text][header]](https://github.com/kilrau/index)
 
 # CONTRIBUTING:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/distribuyed/index/issues) or [pull request](https://github.com/distribuyed/index/pulls) to suggest changes to this file.
+Do you notice anything that can be added, corrected, or otherwise improved? Create an [issue](https://github.com/kilrau/index/issues) or [pull request](https://github.com/kilrau/index/pulls) to suggest changes to this file.
 
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
 
