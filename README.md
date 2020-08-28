@@ -247,7 +247,7 @@ Many thanks to all the contributors, especially to [@amisolution](https://github
 | 	Streamity	| 	[![alt text][web]](https://streamity.org/) | [![alt text][github]](https://github.com/streamity/)	| [![alt text][whitepaper]](https://streamity.org/uploads/docs/en/Whitepaper_Streamity_en.pdf) | | 	(dev)	| TBC	| 3	| | | | |
 | Stronghold | [![alt text][web]](https://stronghold.co/) |   |   |   | (live) | stellar consensus protocol |   | | | | |
 | 	Swap	| 	[![alt text][web]](https://swap.tech/faq/) | [![alt text][github]](https://github.com/airswap)	| [![alt text][whitepaper]](https://swap.tech/whitepaper/) | `OPRO` | 	(dev)	| swap protocol	| 2	| ERC20 Tokens  | Ethereum | | |
-| 	Swap.Online	| 	[![alt text][web]](https://swap.online/) | [![alt text][github]](https://github.com/swaponline)	| [![alt text][whitepaper]](https://wiki.swap.online/en.pdf) | `FULLY` | 	(live)	| swap protocol	|	| | | | |
+| 	Swap.Online	| 	[![alt text][web]](https://swaponline.github.io/) | [![alt text][github]](https://github.com/swaponline)	| [![alt text][whitepaper]](https://wiki.swaponline.io/en.pdf) | `FULLY` | 	(live)	| swap protocol	|	| | | | |
 | 	Switcheo	| 	[![alt text][web]](http://switcheo.exchange/) | [![alt text][github]](https://github.com/ConjurTech/switcheo)	| | | 	(live)	| neo protocol	| 	| | | | |
 | 	Tesrab DEX	| 	[![alt text][web]](https://tesrab.network/exchange/) | [![alt text][github]](https://github.com/TesrabNetwork)	| | `FULLY` | (dev -private beta)	| TBC	| 	| | | | |
 | Tettix | [![alt text][web]](https://tettix.io/) | [![alt text][github]](https://github.com/Tettix/) | [![alt text][whitepaper]](https://medium.com/@TettixDev/details-of-tettix-e5c9f310fa41) | `FULLY` | (dead) | tettix mechanism protocol |   | | | | |
